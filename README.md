@@ -2,6 +2,6 @@
 
 Simple Bug Tracking and Reporting system.
 
-## Credits
+## License
 
 &copy; Eirworks. All rights reserved.
